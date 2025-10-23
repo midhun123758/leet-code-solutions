@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/midhun123758/leet-code-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/midhun123758/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
@@ -19,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/midhun123758/leet-code-solutions/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
