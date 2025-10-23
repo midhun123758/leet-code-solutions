@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
