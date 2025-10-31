@@ -16,11 +16,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
