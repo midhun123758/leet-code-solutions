@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/midhun123758/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/midhun123758/leet-code-solutions/tree/master/0001-two-sum) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Trie
 |  |
 | ------- |
