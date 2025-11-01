@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/midhun123758/leet-code-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/midhun123758/leet-code-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/midhun123758/leet-code-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/midhun123758/leet-code-solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/midhun123758/leet-code-solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
