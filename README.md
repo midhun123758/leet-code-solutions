@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/midhun123758/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/midhun123758/leet-code-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/midhun123758/leet-code-solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/midhun123758/leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/midhun123758/leet-code-solutions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/midhun123758/leet-code-solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/midhun123758/leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -28,6 +30,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/midhun123758/leet-code-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/midhun123758/leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
