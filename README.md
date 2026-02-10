@@ -38,6 +38,7 @@
 | [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/midhun123758/leet-code-solutions/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/midhun123758/leet-code-solutions/tree/master/0415-add-strings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -45,6 +46,7 @@
 | [0066-plus-one](https://github.com/midhun123758/leet-code-solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/midhun123758/leet-code-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/midhun123758/leet-code-solutions/tree/master/0415-add-strings) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/midhun123758/leet-code-solutions/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
