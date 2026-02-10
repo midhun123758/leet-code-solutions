@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/midhun123758/leet-code-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/midhun123758/leet-code-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/midhun123758/leet-code-solutions/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/midhun123758/leet-code-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
