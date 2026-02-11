@@ -42,6 +42,7 @@
 | [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/midhun123758/leet-code-solutions/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/midhun123758/leet-code-solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
