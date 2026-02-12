@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/midhun123758/leet-code-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/midhun123758/leet-code-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/midhun123758/leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/midhun123758/leet-code-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/midhun123758/leet-code-solutions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/midhun123758/leet-code-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/midhun123758/leet-code-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/midhun123758/leet-code-solutions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/midhun123758/leet-code-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -89,4 +92,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/midhun123758/leet-code-solutions/tree/master/0204-count-primes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/midhun123758/leet-code-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/midhun123758/leet-code-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
