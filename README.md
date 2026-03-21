@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/midhun123758/leet-code-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/midhun123758/leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/midhun123758/leet-code-solutions/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/midhun123758/leet-code-solutions/tree/master/0415-add-strings) |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/midhun123758/leet-code-solutions/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
