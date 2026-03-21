@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/midhun123758/leet-code-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/midhun123758/leet-code-solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/midhun123758/leet-code-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
