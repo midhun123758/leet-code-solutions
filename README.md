@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/midhun123758/leet-code-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/midhun123758/leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/midhun123758/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/midhun123758/leet-code-solutions/tree/master/0290-word-pattern) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/midhun123758/leet-code-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
