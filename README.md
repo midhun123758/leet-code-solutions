@@ -62,6 +62,7 @@
 | [0415-add-strings](https://github.com/midhun123758/leet-code-solutions/tree/master/0415-add-strings) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/midhun123758/leet-code-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/midhun123758/leet-code-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/midhun123758/leet-code-solutions/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/midhun123758/leet-code-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
