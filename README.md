@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/midhun123758/leet-code-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -69,6 +70,7 @@
 | [0169-majority-element](https://github.com/midhun123758/leet-code-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/midhun123758/leet-code-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -78,6 +80,7 @@
 | [0290-word-pattern](https://github.com/midhun123758/leet-code-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/midhun123758/leet-code-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Trie
 |  |
