@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/midhun123758/leet-code-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3321-type-of-triangle](https://github.com/midhun123758/leet-code-solutions/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/midhun123758/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -40,6 +41,7 @@
 | [0344-reverse-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -53,6 +55,7 @@
 | [0344-reverse-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/midhun123758/leet-code-solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/midhun123758/leet-code-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
