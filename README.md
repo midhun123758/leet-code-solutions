@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/midhun123758/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/midhun123758/leet-code-solutions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/midhun123758/leet-code-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/midhun123758/leet-code-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -29,6 +30,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/midhun123758/leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/midhun123758/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midhun123758/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/midhun123758/leet-code-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
